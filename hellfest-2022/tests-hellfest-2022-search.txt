@@ -1,0 +1,7 @@
+tests hellfest 2022 search
+
+1. Pesquisa com temple
+	Resultado esperado: banda twin temple / shows no palco temple
+
+2. pesquisa com AM
+	Resultado esperado: shows com horário de início ou de fim antes do meio dia ou depois da meia-noite.
