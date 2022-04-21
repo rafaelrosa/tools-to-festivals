@@ -10,4 +10,9 @@ public class QuickSearchController {
     public String index() {
         return "index";
     }
+
+    @RequestMapping("/changelog")
+    public String changelogPage() {
+        return "changelog";
+    }
 }
